@@ -1,0 +1,14 @@
+drop table GenreOf;
+drop table MovieGenre;
+drop table Rated;
+drop table ContentRating;
+drop table Directed;
+drop table Director;
+drop table Wrote;
+drop table Author;
+drop table ActedIn;
+drop table Actor;
+drop table Person;
+drop table Film;
+drop table Award;
+drop table Producer;
